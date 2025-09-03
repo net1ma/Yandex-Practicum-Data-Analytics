@@ -188,10 +188,10 @@
 <tr>
    <td>10</td>
    <td>
-         Дашборд для Яндекс.Дзен
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_9"> Дашборд для Яндекс.Дзен
  </td>
  <td>
-    Создал <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_9">дашборд в Tableu Public</a> для менеджеров по анализу контента блог-платформы Яндекс.Дзен.
+    Создал дашборд в Tableu Public</a> для менеджеров по анализу контента блог-платформы Яндекс.Дзен.
 </td>
 <td>
         <code>Tableu</code>
