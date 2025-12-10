@@ -2,7 +2,7 @@
 
 ## Описание проекта:
 ### 1. Проект для банка: анализ оттока клиентов
-**Файл с проектом**: [bank.ipynb](https://github.com/net1ma/Yandex-Practicum-Data-Analytics/blob/main/Project_11/bank.ipynb
+**Файл с проектом**: [bank.ipynb](https://github.com/net1ma/Yandex-Practicum-Data-Analytics/blob/main/Project_11/bank.ipynb)
 
 Заказчик: менеджер продукта в региональном банке, которому требуется разработать меры по удержанию клиентов.
 
