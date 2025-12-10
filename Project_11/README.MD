@@ -2,7 +2,7 @@
 
 ## Описание проекта:
 ### 1. Проект для банка: анализ оттока клиентов
-**Файл с проектом**: [12_bank.ipynb](https://github.com/galaleksey/yandex-praktikum/blob/main/12_final_project/12_bank.ipynb)
+**Файл с проектом**: [bank.ipynb](https://github.com/net1ma/Yandex-Practicum-Data-Analytics/blob/main/Project_11/bank.ipynb
 
 Заказчик: менеджер продукта в региональном банке, которому требуется разработать меры по удержанию клиентов.
 
@@ -18,7 +18,7 @@
 * ориентироваться на клиентов со средним возрастом 45 лет.
 
 ## 2. A/B-тест: проверка результатов
-Файл с проектом: [12_ab-test.ipynb](https://github.com/galaleksey/yandex-praktikum/blob/main/12_final_project/12_ab-test.ipynb)
+Файл с проектом: [ab-test.ipynb](https://github.com/net1ma/Yandex-Practicum-Data-Analytics/blob/main/Project_11/ab-test.ipynb)
 
 Основная цель — провести оценку результатов A/B-теста. В распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов. Необходимо оценить корректность проведения теста и проанализировать его результаты.
 
@@ -27,7 +27,7 @@
 * A/B-тест был проведен некорректно ввиду большого количества проблем в данных
 
 ## 3. SQL: создание запросов
-**Файл с проектом**: [12_sql.ipynb](https://github.com/galaleksey/yandex-praktikum/blob/main/12_final_project/12_sql.ipynb)
+**Файл с проектом**: [sql.ipynb](https://github.com/net1ma/Yandex-Practicum-Data-Analytics/blob/main/Project_11/sql.ipynb)
 
 Цель - составить SQL-запросы для сервиса по продаже электронных книг.
 
