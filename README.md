@@ -70,7 +70,7 @@
    <td>4</td>
    <td>
       <b>
-         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_4">
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_8">
          Исследование рынка компьютерных игр</a>
      </b>
  </td>
@@ -89,7 +89,7 @@
    <td>5</td>
    <td>
       <b>
-         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_5">
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_10">
          Аналитика в авиакомпании</a>
      </b>
  </td>
@@ -108,7 +108,7 @@
    <td>6</td>
    <td>
       <b>
-         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_6">
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_5">
          Аналитика в Яндекс.Афише</a>
      </b>
  </td>
@@ -127,7 +127,7 @@
    <td>7</td>
    <td>
       <b>
-         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_7">
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_9">
          A/B тестирование в интернет-магазине</a>
      </b>
  </td>
@@ -147,7 +147,7 @@
    <td>8</td>
    <td>
       <b>
-         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_8">
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_4">
          Анализ рынка заведений общественного питания Москвы</a>
      </b>
  </td>
@@ -167,7 +167,7 @@
    <td>9</td>
    <td>
       <b>
-         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_9">
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_7">
          Анализ воронки продаж в мобильном приложении по продаже продуктов питания</a>
      </b>
  </td>
@@ -203,7 +203,7 @@
    <td>11</td>
    <td>
       <b>
-         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_10">
+         <a href="https://github.com/net1ma/Yandex-Practicum-Data-Analytics/tree/main/Project_6">
          Прогнозирование оттока клиентов фитнес-центра с помощью машинного обучения</a>
      </b>
  </td>
